@@ -1,5 +1,7 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "aws-sdk", "~> 2"
-gem "pry-byebug"
-gem "pry-doc"
+gem 'aws-sdk', '~> 2'
+gem 'pry-byebug'
+gem 'pry-doc'
+
+gem 'rspec'
