@@ -1,12 +1,16 @@
 # Aws_S3_Test_1
 
-- Ruby 2.3
+- Ruby 2.3.3
 
 ## S3にファイルをアップロードする
 
 - aws-sdk は 2.x
 - .aws/credentials を利用している
   - IAM でもいける？
+
+## やってみること
+
+- 
 
 ## コード
 
