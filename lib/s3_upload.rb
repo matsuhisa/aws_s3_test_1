@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 require 'aws-sdk'
-require "pry"
 
 BUCKET_NAME = "rails-fileup-matsuhisa"
 DIRECTORY_PATH = "foo/bar"
